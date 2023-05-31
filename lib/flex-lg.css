@@ -1,0 +1,224 @@
+@media (--lg-viewport) {
+  .lg-flex {
+    display: flex !important;
+  }
+
+  .lg-flexInline {
+    display: inline-flex !important;
+  }
+
+  .lg-flexRow {
+    flex-direction: row !important;
+  }
+
+  .lg-flexRowReverse {
+    flex-direction: row-reverse !important;
+  }
+
+  .lg-flexCol {
+    flex-direction: column !important;
+  }
+
+  .lg-flexColReverse {
+    flex-direction: column-reverse !important;
+  }
+
+  .lg-flexWrap {
+    flex-wrap: wrap !important;
+  }
+
+  .lg-flexNoWrap {
+    flex-wrap: nowrap !important;
+  }
+
+  .lg-flexWrapReverse {
+    flex-wrap: wrap-reverse !important;
+  }
+
+  .lg-flexJustifyStart {
+    justify-content: flex-start !important;
+  }
+
+  .lg-flexJustifyEnd {
+    justify-content: flex-end !important;
+  }
+
+  .lg-flexJustifyCenter {
+    justify-content: center !important;
+  }
+
+  .lg-flexJustifyBetween {
+    justify-content: space-between !important;
+  }
+
+  .lg-flexJustifyAround {
+    justify-content: space-around !important;
+  }
+
+  .lg-flexAlignItemsStart {
+    align-items: flex-start !important;
+  }
+
+  .lg-flexAlignItemsEnd {
+    align-items: flex-end !important;
+  }
+
+  .lg-flexAlignItemsCenter {
+    align-items: center !important;
+  }
+
+  .lg-flexAlignItemsStretch {
+    align-items: stretch !important;
+  }
+
+  .lg-flexAlignItemsBaseline {
+    align-items: baseline !important;
+  }
+
+  .lg-flexAlignContentStart {
+    align-content: flex-start !important;
+  }
+
+  .lg-flexAlignContentEnd {
+    align-content: flex-end !important;
+  }
+
+  .lg-flexAlignContentCenter {
+    align-content: center !important;
+  }
+
+  .lg-flexAlignContentStretch {
+    align-content: stretch !important;
+  }
+
+  .lg-flexAlignContentBetween {
+    align-content: space-between !important;
+  }
+
+  .lg-flexAlignContentAround {
+    align-content: space-around !important;
+  }
+
+  .lg-flexAlignSelfStart {
+    align-self: flex-start !important;
+  }
+
+  .lg-flexAlignSelfEnd {
+    align-self: flex-end !important;
+  }
+
+  .lg-flexAlignSelfCenter {
+    align-self: center !important;
+  }
+
+  .lg-flexAlignSelfStretch {
+    align-self: stretch !important;
+  }
+
+  .lg-flexAlignSelfBaseline {
+    align-self: baseline !important;
+  }
+
+  .lg-flexAlignSelfAuto {
+    align-self: auto !important;
+  }
+
+  .lg-flexOrderFirst {
+    order: -1 !important;
+  }
+
+  .lg-flexOrderLast {
+    order: 1 !important;
+  }
+
+  .lg-flexOrderNone {
+    order: 0 !important;
+  }
+
+  .lg-flexGrow1 {
+    flex: 1 1 0% !important; /* 1 */
+  }
+
+  .lg-flexGrow2 {
+    flex: 2 1 0% !important;
+  }
+
+  .lg-flexGrow3 {
+    flex: 3 1 0% !important;
+  }
+
+  .lg-flexGrow4 {
+    flex: 4 1 0% !important;
+  }
+
+  .lg-flexGrow5 {
+    flex: 5 1 0% !important;
+  }
+
+  .lg-flexShrink0 {
+    flex-shrink: 0 !important;
+  }
+
+  .lg-flexShrink1 {
+    flex-shrink: 1 !important;
+  }
+
+  .lg-flexShrink2 {
+    flex-shrink: 2 !important;
+  }
+
+  .lg-flexShrink3 {
+    flex-shrink: 3 !important;
+  }
+
+  .lg-flexShrink4 {
+    flex-shrink: 4 !important;
+  }
+
+  .lg-flexShrink5 {
+    flex-shrink: 5 !important;
+  }
+
+  .lg-flexExpand {
+    margin: auto !important;
+  }
+
+  .lg-flexExpandLeft {
+    margin-left: auto !important;
+  }
+
+  .lg-flexExpandRight {
+    margin-right: auto !important;
+  }
+
+  .lg-flexExpandTop {
+    margin-top: auto !important;
+  }
+
+  .lg-flexExpandBottom {
+    margin-bottom: auto !important;
+  }
+
+  .lg-flexBasisAuto {
+    flex-basis: auto !important;
+  }
+
+  .lg-flexBasis0 {
+    flex-basis: 0 !important;
+  }
+
+  .lg-flexInitial {
+    flex: 0 1 auto !important;
+    flex-basis: auto !important; /* 1 */
+  }
+
+  .lg-flexAuto {
+    flex: 1 1 auto !important;
+    flex-basis: auto !important; /* 1 */
+  }
+
+  .lg-flexNone {
+    flex: 0 0 auto !important;
+    flex-basis: auto !important; /* 1 */
+  }
+}

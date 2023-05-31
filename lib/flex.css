@@ -1,0 +1,222 @@
+.flex {
+  display: flex !important;
+}
+
+.flexInline {
+  display: inline-flex !important;
+}
+
+.flexRow {
+  flex-direction: row !important;
+}
+
+.flexRowReverse {
+  flex-direction: row-reverse !important;
+}
+
+.flexCol {
+  flex-direction: column !important;
+}
+
+.flexColReverse {
+  flex-direction: column-reverse !important;
+}
+
+.flexWrap {
+  flex-wrap: wrap !important;
+}
+
+.flexNoWrap {
+  flex-wrap: nowrap !important;
+}
+
+.flexWrapReverse {
+  flex-wrap: wrap-reverse !important;
+}
+
+.flexJustifyStart {
+  justify-content: flex-start !important;
+}
+
+.flexJustifyEnd {
+  justify-content: flex-end !important;
+}
+
+.flexJustifyCenter {
+  justify-content: center !important;
+}
+
+.flexJustifyBetween {
+  justify-content: space-between !important;
+}
+
+.flexJustifyAround {
+  justify-content: space-around !important;
+}
+
+.flexAlignItemsStart {
+  align-items: flex-start !important;
+}
+
+.flexAlignItemsEnd {
+  align-items: flex-end !important;
+}
+
+.flexAlignItemsCenter {
+  align-items: center !important;
+}
+
+.flexAlignItemsStretch {
+  align-items: stretch !important;
+}
+
+.flexAlignItemsBaseline {
+  align-items: baseline !important;
+}
+
+.flexAlignContentStart {
+  align-content: flex-start !important;
+}
+
+.flexAlignContentEnd {
+  align-content: flex-end !important;
+}
+
+.flexAlignContentCenter {
+  align-content: center !important;
+}
+
+.flexAlignContentStretch {
+  align-content: stretch !important;
+}
+
+.flexAlignContentBetween {
+  align-content: space-between !important;
+}
+
+.flexAlignContentAround {
+  align-content: space-around !important;
+}
+
+.flexAlignSelfStart {
+  align-self: flex-start !important;
+}
+
+.flexAlignSelfEnd {
+  align-self: flex-end !important;
+}
+
+.flexAlignSelfCenter {
+  align-self: center !important;
+}
+
+.flexAlignSelfStretch {
+  align-self: stretch !important;
+}
+
+.flexAlignSelfBaseline {
+  align-self: baseline !important;
+}
+
+.flexAlignSelfAuto {
+  align-self: auto !important;
+}
+
+.flexOrderFirst {
+  order: -1 !important;
+}
+
+.flexOrderLast {
+  order: 1 !important;
+}
+
+.flexOrderNone {
+  order: 0 !important;
+}
+
+.flexGrow1 {
+  flex: 1 1 0% !important; /* 1 */
+}
+
+.flexGrow2 {
+  flex: 2 1 0% !important;
+}
+
+.flexGrow3 {
+  flex: 3 1 0% !important;
+}
+
+.flexGrow4 {
+  flex: 4 1 0% !important;
+}
+
+.flexGrow5 {
+  flex: 5 1 0% !important;
+}
+
+.flexShrink0 {
+  flex-shrink: 0 !important;
+}
+
+.flexShrink1 {
+  flex-shrink: 1 !important;
+}
+
+.flexShrink2 {
+  flex-shrink: 2 !important;
+}
+
+.flexShrink3 {
+  flex-shrink: 3 !important;
+}
+
+.flexShrink4 {
+  flex-shrink: 4 !important;
+}
+
+.flexShrink5 {
+  flex-shrink: 5 !important;
+}
+
+.flexExpand {
+  margin: auto !important;
+}
+
+.flexExpandLeft {
+  margin-left: auto !important;
+}
+
+.flexExpandRight {
+  margin-right: auto !important;
+}
+
+.flexExpandTop {
+  margin-top: auto !important;
+}
+
+.flexExpandBottom {
+  margin-bottom: auto !important;
+}
+
+.flexBasisAuto {
+  flex-basis: auto !important;
+}
+
+.flexBasis0 {
+  flex-basis: 0 !important;
+}
+
+.flexInitial {
+  flex: 0 1 auto !important;
+  flex-basis: auto !important; /* 1 */
+}
+
+.flexAuto {
+  flex: 1 1 auto !important;
+  flex-basis: auto !important; /* 1 */
+}
+
+.flexNone {
+  flex: 0 0 auto !important;
+  flex-basis: auto !important; /* 1 */
+}
